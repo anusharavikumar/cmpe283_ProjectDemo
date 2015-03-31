@@ -1,4 +1,4 @@
-# cmpe283_ProjectDemo
+# Chef & Docker
 Spring 2015<br>
 CMPE283 Virtualization Technologies - Repo for files
 
